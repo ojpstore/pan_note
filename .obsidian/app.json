@@ -1,0 +1,9 @@
+{
+  "readableLineLength": false,
+  "attachmentFolderPath": "./attach",
+  "userIgnoreFilters": [
+    "01.Master & Basic/attach/",
+    "/attach",
+    "*/attach"
+  ]
+}
